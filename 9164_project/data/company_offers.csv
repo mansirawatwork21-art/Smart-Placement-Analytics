@@ -1,0 +1,234 @@
+offer_id,company,job_role,department,min_cgpa,required_skills,package_lpa
+1,TCS,Software Engineer,B.Sc Information Technology,6.0,"Java, SQL, Git",6.34
+2,TCS,Data Analyst,B.Sc Physics,6.0,"Python, Excel, Data Analysis",4.64
+3,TCS,Data Analyst,B.Sc Mathematics,6.5,"Python, SQL, Statistics",6.34
+4,Infosys,Business Analyst,BBA,6.0,"Excel, SQL, Power BI",5.83
+5,Infosys,Operations Executive,BBA,5.0,"Excel, Business Analysis, Communication",5.82
+6,Infosys,HR Executive,BBA,4.8,"Excel, Communication, Business Analysis",5.59
+7,Infosys,Data Analyst,B.Sc Data Science,6.5,"Python, SQL, Power BI",7.62
+8,Infosys,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",7.07
+9,Infosys,NLP Engineer,B.Sc Artificial Intelligence,8.0,"Python, NLP, Machine Learning",8.05
+10,Infosys,QA Engineer,B.Sc Computer Science,5.0,"Java, SQL, Git",4.05
+11,Infosys,Cloud Support Associate,B.Sc Computer Science,5.5,"Python, SQL, Git",6.64
+12,Infosys,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",6.1
+13,Accenture,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",4.0
+14,Accenture,HR Executive,BBA,4.8,"Excel, Communication, Business Analysis",5.52
+15,Accenture,Process Analyst,B.Sc Chemistry,5.5,"Excel, Statistics, Research",6.34
+16,Accenture,Lab Analyst,B.Sc Chemistry,5.0,"Excel, Laboratory, Statistics",5.04
+17,Accenture,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",4.35
+18,Accenture,Data Analyst,B.Sc Data Science,6.5,"Python, SQL, Power BI",6.41
+19,Accenture,ML Analyst,B.Sc Data Science,7.0,"Python, Machine Learning, Pandas",6.87
+20,Deloitte,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",8.23
+21,Deloitte,Data Scientist,B.Sc Artificial Intelligence,7.5,"Python, SQL, Machine Learning",6.43
+22,Deloitte,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",8.12
+23,Deloitte,Hardware Engineer,B.Sc Electronics,6.0,"C++, PCB Design, Digital Electronics",7.43
+24,Deloitte,Embedded Engineer,B.Sc Electronics,6.0,"C++, Embedded C, Arduino",5.84
+25,Deloitte,IoT Engineer,B.Sc Electronics,6.2,"Python, IoT, Arduino",6.67
+26,Deloitte,Financial Analyst,B.Com,5.8,"Excel, Financial Analysis, SQL",6.27
+27,Deloitte,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.35
+28,Deloitte,Business Analyst,B.Com,6.0,"Excel, SQL, Power BI",5.38
+29,Deloitte,Software Engineer,B.Sc Information Technology,6.0,"Java, SQL, Git",5.41
+30,Deloitte,System Administrator,B.Sc Information Technology,5.5,"SQL, Git, Python",5.72
+31,Deloitte,Data Analyst,B.Sc Data Science,6.5,"Python, SQL, Power BI",6.1
+32,Deloitte,ML Analyst,B.Sc Data Science,7.0,"Python, Machine Learning, Pandas",8.09
+33,Deloitte,Junior Data Scientist,B.Sc Data Science,7.5,"Python, Machine Learning, SQL",7.38
+34,Cognizant,Banking Associate,B.Com,4.8,"Excel, Accounting, Communication",4.82
+35,Cognizant,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",5.18
+36,Cognizant,Software Engineer,B.Sc Computer Science,6.5,"Python, Java, SQL",7.5
+37,Cognizant,Business Analyst,B.Sc Computer Science,6.0,"SQL, Excel, Power BI",5.63
+38,Cognizant,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",8.83
+39,Cognizant,Web Developer,B.Sc Information Technology,5.5,"HTML, CSS, JavaScript",5.91
+40,Capgemini,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",7.0
+41,Capgemini,NLP Engineer,B.Sc Artificial Intelligence,8.0,"Python, NLP, Machine Learning",7.26
+42,Capgemini,Data Scientist,B.Sc Artificial Intelligence,7.5,"Python, SQL, Machine Learning",7.72
+43,Capgemini,Lab Analyst,B.Sc Chemistry,5.0,"Excel, Laboratory, Statistics",4.9
+44,Capgemini,Quality Analyst,B.Sc Chemistry,5.2,"Excel, Statistics, Laboratory",5.2
+45,Capgemini,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",5.95
+46,Capgemini,IoT Engineer,B.Sc Electronics,6.2,"Python, IoT, Arduino",6.39
+47,Capgemini,Risk Analyst,B.Sc Mathematics,6.8,"Excel, Statistics, Data Analysis",6.41
+48,Wipro,Quality Analyst,B.Sc Chemistry,5.2,"Excel, Statistics, Laboratory",5.73
+49,Wipro,QA Engineer,B.Sc Computer Science,5.0,"Java, SQL, Git",4.96
+50,Wipro,Data Analyst,B.Sc Computer Science,6.0,"Python, SQL, Excel",8.12
+51,Wipro,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",5.71
+52,Wipro,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",5.49
+53,Wipro,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",6.97
+54,Wipro,Web Developer,B.Sc Information Technology,5.5,"HTML, CSS, JavaScript",6.25
+55,Tech Mahindra,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",9.49
+56,Tech Mahindra,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.96
+57,Tech Mahindra,Business Analyst,B.Com,6.0,"Excel, SQL, Power BI",6.33
+58,Tech Mahindra,IoT Engineer,B.Sc Electronics,6.2,"Python, IoT, Arduino",5.9
+59,Tech Mahindra,Operations Executive,BBA,5.0,"Excel, Business Analysis, Communication",5.2
+60,Tech Mahindra,Statistical Analyst,B.Sc Mathematics,6.5,"Python, R, Statistics",6.05
+61,LTIMindtree,Financial Analyst,B.Com,5.8,"Excel, Financial Analysis, SQL",5.42
+62,LTIMindtree,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.36
+63,LTIMindtree,Accountant,B.Com,4.5,"Excel, Accounting, Tally",4.66
+64,LTIMindtree,Data Analyst,B.Sc Computer Science,6.0,"Python, SQL, Excel",7.29
+65,LTIMindtree,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",5.36
+66,LTIMindtree,Process Analyst,B.Sc Chemistry,5.5,"Excel, Statistics, Research",5.51
+67,LTIMindtree,Lab Analyst,B.Sc Chemistry,5.0,"Excel, Laboratory, Statistics",5.41
+68,LTIMindtree,Data Analyst,B.Sc Data Science,6.5,"Python, SQL, Power BI",6.42
+69,LTIMindtree,Junior Data Scientist,B.Sc Data Science,7.5,"Python, Machine Learning, SQL",8.05
+70,HCLTech,Lab Analyst,B.Sc Physics,5.0,"Excel, Research, Statistics",4.4
+71,HCLTech,Support Engineer,B.Sc Information Technology,4.8,"SQL, Python, Excel",4.0
+72,HCLTech,Frontend Developer,B.Sc Information Technology,6.0,"HTML, CSS, React",5.65
+73,HCLTech,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",5.67
+74,HCLTech,Electronics Engineer,B.Sc Electronics,5.5,"MATLAB, Digital Electronics, PCB Design",5.28
+75,HCLTech,Embedded Engineer,B.Sc Electronics,6.0,"C++, Embedded C, Arduino",5.49
+76,IBM,Research Associate,B.Sc Chemistry,6.0,"Python, Research, MATLAB",5.71
+77,IBM,Lab Analyst,B.Sc Chemistry,5.0,"Excel, Laboratory, Statistics",4.08
+78,IBM,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",5.56
+79,IBM,Operations Executive,BBA,5.0,"Excel, Business Analysis, Communication",6.49
+80,IBM,HR Executive,BBA,4.8,"Excel, Communication, Business Analysis",5.09
+81,IBM,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",4.94
+82,IBM,Data Analyst,B.Sc Data Science,6.5,"Python, SQL, Power BI",6.13
+83,IBM,Junior Data Scientist,B.Sc Data Science,7.5,"Python, Machine Learning, SQL",6.97
+84,IBM,ML Analyst,B.Sc Data Science,7.0,"Python, Machine Learning, Pandas",6.03
+85,IBM,System Administrator,B.Sc Information Technology,5.5,"SQL, Git, Python",4.52
+86,IBM,Data Analyst,B.Sc Physics,6.0,"Python, Excel, Data Analysis",5.36
+87,EY,Statistical Analyst,B.Sc Mathematics,6.5,"Python, R, Statistics",6.55
+88,EY,Web Developer,B.Sc Information Technology,5.5,"HTML, CSS, JavaScript",5.2
+89,EY,Support Engineer,B.Sc Information Technology,4.8,"SQL, Python, Excel",6.35
+90,EY,IoT Engineer,B.Sc Physics,6.2,"Python, IoT, C++",5.56
+91,EY,Data Analyst,B.Sc Physics,6.0,"Python, Excel, Data Analysis",6.82
+92,EY,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",4.93
+93,KPMG,System Administrator,B.Sc Information Technology,5.5,"SQL, Git, Python",5.73
+94,KPMG,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",6.07
+95,KPMG,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",5.84
+96,KPMG,Research Associate,B.Sc Chemistry,6.0,"Python, Research, MATLAB",6.44
+97,KPMG,Financial Analyst,B.Com,5.8,"Excel, Financial Analysis, SQL",5.65
+98,KPMG,Backend Developer,B.Sc Computer Science,6.5,"Python, SQL, Git",6.73
+99,KPMG,Data Analyst,B.Sc Computer Science,6.0,"Python, SQL, Excel",5.79
+100,KPMG,Lab Analyst,B.Sc Physics,5.0,"Excel, Research, Statistics",5.39
+101,KPMG,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",5.61
+102,PwC,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",6.04
+103,PwC,HR Executive,BBA,4.8,"Excel, Communication, Business Analysis",4.49
+104,PwC,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.17
+105,PwC,Risk Analyst,B.Sc Mathematics,6.8,"Excel, Statistics, Data Analysis",6.52
+106,PwC,Research Associate,B.Sc Chemistry,6.0,"Python, Research, MATLAB",6.77
+107,PwC,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",5.5
+108,PwC,Process Analyst,B.Sc Chemistry,5.5,"Excel, Statistics, Research",4.79
+109,Genpact,Business Analyst,B.Sc Data Science,6.2,"SQL, Excel, Power BI",6.88
+110,Genpact,Data Analyst,B.Sc Data Science,6.5,"Python, SQL, Power BI",6.71
+111,Genpact,Junior Data Scientist,B.Sc Data Science,7.5,"Python, Machine Learning, SQL",7.95
+112,Genpact,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",4.73
+113,Genpact,Lab Analyst,B.Sc Chemistry,5.0,"Excel, Laboratory, Statistics",6.23
+114,Genpact,Process Analyst,B.Sc Chemistry,5.5,"Excel, Statistics, Research",6.74
+115,Genpact,IoT Engineer,B.Sc Physics,6.2,"Python, IoT, C++",7.06
+116,Genpact,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",5.1
+117,Genpact,Research Analyst,B.Sc Physics,6.5,"Python, MATLAB, Research",5.12
+118,Oracle,Accountant,B.Com,4.5,"Excel, Accounting, Tally",4.0
+119,Oracle,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.27
+120,Oracle,Banking Associate,B.Com,4.8,"Excel, Accounting, Communication",4.0
+121,Oracle,Risk Analyst,B.Sc Mathematics,6.8,"Excel, Statistics, Data Analysis",6.55
+122,Oracle,System Administrator,B.Sc Information Technology,5.5,"SQL, Git, Python",4.22
+123,Oracle,Web Developer,B.Sc Information Technology,5.5,"HTML, CSS, JavaScript",5.6
+124,Oracle,Frontend Developer,B.Sc Information Technology,6.0,"HTML, CSS, React",5.79
+125,SAP,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",5.49
+126,SAP,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",8.28
+127,SAP,Embedded Engineer,B.Sc Electronics,6.0,"C++, Embedded C, Arduino",6.04
+128,SAP,Cloud Support Associate,B.Sc Computer Science,5.5,"Python, SQL, Git",5.87
+129,SAP,QA Engineer,B.Sc Computer Science,5.0,"Java, SQL, Git",5.79
+130,SAP,Web Developer,B.Sc Computer Science,5.5,"HTML, CSS, JavaScript",5.73
+131,Coforge,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",5.65
+132,Coforge,Banking Associate,B.Com,4.8,"Excel, Accounting, Communication",4.96
+133,Coforge,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",6.11
+134,Coforge,Process Analyst,B.Sc Chemistry,5.5,"Excel, Statistics, Research",6.08
+135,Coforge,Software Engineer,B.Sc Computer Science,6.5,"Python, Java, SQL",7.05
+136,Coforge,Cloud Support Associate,B.Sc Computer Science,5.5,"Python, SQL, Git",5.97
+137,Coforge,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",6.13
+138,Persistent Systems,Cloud Support Associate,B.Sc Computer Science,5.5,"Python, SQL, Git",5.32
+139,Persistent Systems,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",5.23
+140,Persistent Systems,Backend Developer,B.Sc Computer Science,6.5,"Python, SQL, Git",6.41
+141,Persistent Systems,Operations Analyst,B.Sc Mathematics,5.8,"Excel, SQL, Data Analysis",5.68
+142,Persistent Systems,Test Engineer,B.Sc Electronics,5.5,"C++, MATLAB, IoT",6.5
+143,Persistent Systems,Embedded Engineer,B.Sc Electronics,6.0,"C++, Embedded C, Arduino",4.86
+144,Persistent Systems,Hardware Engineer,B.Sc Electronics,6.0,"C++, PCB Design, Digital Electronics",7.33
+145,Persistent Systems,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",6.12
+146,Persistent Systems,Operations Executive,BBA,5.0,"Excel, Business Analysis, Communication",5.16
+147,Persistent Systems,Sales Analyst,BBA,5.2,"Excel, SQL, Communication",5.03
+148,Persistent Systems,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",8.36
+149,Persistent Systems,Data Scientist,B.Sc Artificial Intelligence,7.5,"Python, SQL, Machine Learning",8.45
+150,Persistent Systems,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",7.28
+151,Mphasis,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",6.23
+152,Mphasis,NLP Engineer,B.Sc Artificial Intelligence,8.0,"Python, NLP, Machine Learning",8.66
+153,Mphasis,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",6.35
+154,Mphasis,Data Analyst,B.Sc Chemistry,5.8,"Python, Excel, Data Analysis",5.92
+155,Hexaware,Sales Analyst,BBA,5.2,"Excel, SQL, Communication",4.33
+156,Hexaware,Business Analyst,BBA,6.0,"Excel, SQL, Power BI",6.15
+157,Hexaware,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",7.94
+158,Hexaware,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",6.06
+159,Hexaware,IoT Engineer,B.Sc Physics,6.2,"Python, IoT, C++",5.74
+160,Hexaware,Lab Analyst,B.Sc Physics,5.0,"Excel, Research, Statistics",5.51
+161,Hexaware,Banking Associate,B.Com,4.8,"Excel, Accounting, Communication",4.65
+162,Hexaware,Accountant,B.Com,4.5,"Excel, Accounting, Tally",4.0
+163,Hexaware,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",4.51
+164,Hexaware,Software Engineer,B.Sc Information Technology,6.0,"Java, SQL, Git",5.38
+165,Hexaware,System Administrator,B.Sc Information Technology,5.5,"SQL, Git, Python",5.48
+166,Hexaware,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",4.54
+167,Larsen & Toubro,Test Engineer,B.Sc Electronics,5.5,"C++, MATLAB, IoT",5.26
+168,Larsen & Toubro,Support Engineer,B.Sc Information Technology,4.8,"SQL, Python, Excel",6.13
+169,Larsen & Toubro,Software Engineer,B.Sc Information Technology,6.0,"Java, SQL, Git",5.33
+170,Larsen & Toubro,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",6.26
+171,Larsen & Toubro,BI Analyst,B.Sc Data Science,6.0,"Power BI, SQL, Excel",6.5
+172,Larsen & Toubro,ML Analyst,B.Sc Data Science,7.0,"Python, Machine Learning, Pandas",6.64
+173,Reliance Industries,System Administrator,B.Sc Information Technology,5.5,"SQL, Git, Python",4.47
+174,Reliance Industries,IT Analyst,B.Sc Information Technology,5.5,"SQL, Excel, Python",5.34
+175,Reliance Industries,Business Analyst,B.Com,6.0,"Excel, SQL, Power BI",5.95
+176,Reliance Industries,Operations Executive,BBA,5.0,"Excel, Business Analysis, Communication",4.17
+177,Reliance Industries,Process Analyst,B.Sc Chemistry,5.5,"Excel, Statistics, Research",4.85
+178,ICICI Bank,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",6.14
+179,ICICI Bank,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",4.6
+180,ICICI Bank,HR Executive,BBA,4.8,"Excel, Communication, Business Analysis",5.15
+181,ICICI Bank,Business Analyst,B.Sc Mathematics,6.0,"Excel, SQL, Power BI",5.04
+182,ICICI Bank,Statistical Analyst,B.Sc Mathematics,6.5,"Python, R, Statistics",5.84
+183,ICICI Bank,Hardware Engineer,B.Sc Electronics,6.0,"C++, PCB Design, Digital Electronics",5.7
+184,ICICI Bank,Embedded Engineer,B.Sc Electronics,6.0,"C++, Embedded C, Arduino",6.1
+185,ICICI Bank,Electronics Engineer,B.Sc Electronics,5.5,"MATLAB, Digital Electronics, PCB Design",4.53
+186,HDFC Bank,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",7.08
+187,HDFC Bank,AI Analyst,B.Sc Artificial Intelligence,7.0,"Python, SQL, Machine Learning",7.75
+188,HDFC Bank,NLP Engineer,B.Sc Artificial Intelligence,8.0,"Python, NLP, Machine Learning",7.92
+189,HDFC Bank,Business Analyst,B.Com,6.0,"Excel, SQL, Power BI",6.32
+190,HDFC Bank,Electronics Engineer,B.Sc Electronics,5.5,"MATLAB, Digital Electronics, PCB Design",4.76
+191,HDFC Bank,Embedded Engineer,B.Sc Electronics,6.0,"C++, Embedded C, Arduino",6.74
+192,HDFC Bank,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",4.32
+193,HDFC Bank,HR Executive,BBA,4.8,"Excel, Communication, Business Analysis",4.0
+194,HDFC Bank,Operations Executive,BBA,5.0,"Excel, Business Analysis, Communication",5.7
+195,HDFC Bank,Marketing Analyst,BBA,5.2,"Excel, Marketing, Digital Marketing",4.0
+196,Axis Bank,Business Analyst,B.Sc Data Science,6.2,"SQL, Excel, Power BI",5.25
+197,Axis Bank,Frontend Developer,B.Sc Information Technology,6.0,"HTML, CSS, React",5.38
+198,Axis Bank,Software Engineer,B.Sc Information Technology,6.0,"Java, SQL, Git",6.49
+199,Axis Bank,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.43
+200,Axis Bank,Banking Associate,B.Com,4.8,"Excel, Accounting, Communication",4.51
+201,Axis Bank,Financial Analyst,B.Com,5.8,"Excel, Financial Analysis, SQL",6.6
+202,Axis Bank,Data Analyst,B.Sc Mathematics,6.5,"Python, SQL, Statistics",6.41
+203,Axis Bank,Business Analyst,B.Sc Mathematics,6.0,"Excel, SQL, Power BI",6.55
+204,Axis Bank,Operations Analyst,B.Sc Mathematics,5.8,"Excel, SQL, Data Analysis",6.36
+205,Axis Bank,Quality Analyst,B.Sc Chemistry,5.2,"Excel, Statistics, Laboratory",6.17
+206,Axis Bank,Research Associate,B.Sc Chemistry,6.0,"Python, Research, MATLAB",5.12
+207,Axis Bank,Lab Analyst,B.Sc Chemistry,5.0,"Excel, Laboratory, Statistics",5.62
+208,Bajaj Finserv,Quality Analyst,B.Sc Chemistry,5.2,"Excel, Statistics, Laboratory",4.64
+209,Bajaj Finserv,IoT Engineer,B.Sc Electronics,6.2,"Python, IoT, Arduino",6.03
+210,Bajaj Finserv,Electronics Engineer,B.Sc Electronics,5.5,"MATLAB, Digital Electronics, PCB Design",5.06
+211,Bajaj Finserv,Research Analyst,B.Sc Physics,6.5,"Python, MATLAB, Research",5.64
+212,Bajaj Finserv,Lab Analyst,B.Sc Physics,5.0,"Excel, Research, Statistics",5.81
+213,Bajaj Finserv,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",6.01
+214,Bajaj Finserv,ML Analyst,B.Sc Data Science,7.0,"Python, Machine Learning, Pandas",5.75
+215,Bajaj Finserv,Operations Analyst,B.Sc Mathematics,5.8,"Excel, SQL, Data Analysis",6.02
+216,Jio,Support Engineer,B.Sc Information Technology,4.8,"SQL, Python, Excel",4.16
+217,Jio,IoT Engineer,B.Sc Physics,6.2,"Python, IoT, C++",7.39
+218,Jio,MIS Executive,B.Com,5.2,"Excel, Power BI, SQL",5.56
+219,Jio,Financial Analyst,B.Com,5.8,"Excel, Financial Analysis, SQL",5.63
+220,Tata Motors,Frontend Developer,B.Sc Information Technology,6.0,"HTML, CSS, React",6.64
+221,Tata Motors,ML Engineer,B.Sc Artificial Intelligence,7.8,"Python, Machine Learning, Deep Learning",8.11
+222,Tata Motors,Data Scientist,B.Sc Artificial Intelligence,7.5,"Python, SQL, Machine Learning",6.54
+223,Tata Motors,NLP Engineer,B.Sc Artificial Intelligence,8.0,"Python, NLP, Machine Learning",7.22
+224,Tata Motors,Business Analyst,B.Sc Mathematics,6.0,"Excel, SQL, Power BI",6.7
+225,Mahindra & Mahindra,AI Engineer,B.Sc Artificial Intelligence,7.5,"Python, Machine Learning, TensorFlow",7.46
+226,Mahindra & Mahindra,Data Scientist,B.Sc Artificial Intelligence,7.5,"Python, SQL, Machine Learning",7.42
+227,Mahindra & Mahindra,Technical Analyst,B.Sc Physics,6.0,"Python, MATLAB, Statistics",6.05
+228,Mahindra & Mahindra,Data Analyst,B.Sc Physics,6.0,"Python, Excel, Data Analysis",6.34
+229,Mahindra & Mahindra,Test Engineer,B.Sc Electronics,5.5,"C++, MATLAB, IoT",5.47
+230,Mahindra & Mahindra,IoT Engineer,B.Sc Electronics,6.2,"Python, IoT, Arduino",7.49
+231,Mahindra & Mahindra,Hardware Engineer,B.Sc Electronics,6.0,"C++, PCB Design, Digital Electronics",6.55
+232,Mahindra & Mahindra,ML Analyst,B.Sc Data Science,7.0,"Python, Machine Learning, Pandas",7.51
+233,Mahindra & Mahindra,System Engineer,B.Sc Computer Science,5.5,"Python, SQL, Linux",6.42
